@@ -1,0 +1,16 @@
+pyOpenSSL
+requests
+Crypto.Cipher
+pycryptodome
+pystyle
+colorama
+auto_py_to_exe
+psutil
+pyinstaller
+wmi
+fade
+ctypes
+psutil
+getmac
+get-mac
+OpenSSL
