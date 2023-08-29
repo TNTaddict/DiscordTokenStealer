@@ -6,7 +6,7 @@ TNT_Stealer
 </h2>
 
 
-![standard](https://github.com/TNTaddicted/TNT_Stealer/assets/131607911/97468d76-204b-4ce2-895c-ae78e04e9c98)
+
 
 
 ## Features
