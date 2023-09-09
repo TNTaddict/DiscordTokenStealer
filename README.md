@@ -45,6 +45,10 @@ TNT_Stealer
     -   Place stub in appdata
     -   Add to startup registry
 
+
+![IMG_4664](https://github.com/TNTaddict/DiscordTokenStealer/assets/131607911/9a249ea8-00fe-4c7d-9ad1-2462823ea4d9)
+
+
 ## Install
 
 ### Prerequisites
