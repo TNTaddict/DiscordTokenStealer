@@ -84,7 +84,7 @@ while True:
                 Write.Print("\nYou have entered invalid. Please try again.", Colors.red)
 
     elif choice == "2":
-        Write.Print("Coming soon...", Colors.red)
+        Write.Print("Coming soon... :)", Colors.red)
 
     elif choice == "3":
         Write.Print("\nExiting the program...", Colors.red)
