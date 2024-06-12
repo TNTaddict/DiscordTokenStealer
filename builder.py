@@ -4,6 +4,7 @@ import subprocess
 import requests
 from colorama import *
 import time
+import base64
 
 os.system('clear' if os.name == 'posix' else 'cls')
 
