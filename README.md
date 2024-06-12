@@ -5,8 +5,6 @@ TNT_Stealer
 🌟 Please star the repo 🌟 
 </h2>
 
-!!!!! DO NOT FORGET TO USE `DownloadPacks.exe` file BEFORE using `builder.bat` file !!!!!
-
 ## Features
 
 -   Discord information
